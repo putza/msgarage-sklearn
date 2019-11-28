@@ -4,6 +4,18 @@ Quick introduction to Scikit-Learn
 A small demo for the Vancouver Open Source Software event hosted by the Microsoft Garage.
 
 
+Anaconda Setup
+------------
+
+Download and install Anaconda
+
+    $ conda create --name MSGarage python=3.7
+    $ conda install jupyter scipy pandas matplotlib scikit-learn seaborn pydotplus scikit-image opencv tensorflow graphviz
+    $ conda activate MSGarage
+    $ jupyter-notebook
+ 
+
+
 
 Project Organization
 ------------
